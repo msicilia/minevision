@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "mineflayer": "^4.3.0",
+    "playwright": "^1.22.2",
+    "prismarine-viewer": "^1.23.0"
+  }
+}
